@@ -89,7 +89,7 @@ switch(klawisz)
   digitalWrite(10, LOW);
   break; 
 
-  case '3':
+  case '4':
     digitalWrite(1, LOW);
   digitalWrite(13, HIGH);
   delay(1000);
